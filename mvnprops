@@ -1,0 +1,2 @@
+source.cfsource=maven://com.wwt.scdf:time-source:0.0.1-SNAPSHOT
+sink.cfsink=maven://com.wwt.scdf:log-sink:jar:0.0.1-SNAPSHOT
